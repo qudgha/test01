@@ -10,5 +10,6 @@
 </head>
 <body>
  여기가 mypage!
+ 새롭게 시도한 마이페이지
 </body>
 </html>
