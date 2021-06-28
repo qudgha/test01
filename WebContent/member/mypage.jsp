@@ -10,5 +10,6 @@
 </head>
 <body>
  여기가 mypage!
+ 마스터에서 마이페이지를 수정함.
 </body>
 </html>
